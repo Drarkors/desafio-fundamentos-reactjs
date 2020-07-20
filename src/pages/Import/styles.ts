@@ -54,3 +54,10 @@ export const Footer = styled.section`
     }
   }
 `;
+
+export const Error = styled.div`
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  color: #c53030;
+`;
